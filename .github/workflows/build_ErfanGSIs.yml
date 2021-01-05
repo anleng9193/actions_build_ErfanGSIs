@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.0.15.0.QJJCNXM/miui_CAS_V12.0.15.0.QJJCNXM_5abfb26bdb_10.0.zip
-  ROM_NAME: miui
+  ROM_URL: https://ip4025458212.mobgslb.tbcache.com/Firmware/Flyme/m2091/8.1.2.0/cn/20200430030803/b9a2a945/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=f234d8bfc24960111b917afaddff65691639699daa412991&ali_redirect_ex_tmining_ts=1609853612&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: flyme
   TZ: Asia/Shanghai
 
 jobs:
