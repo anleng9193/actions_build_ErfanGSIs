@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus8ProOxygen/OnePlus8ProOxygen_15.O.22_GLO_022_2008080055/OnePlus8ProOxygen_15.O.22_OTA_022_all_2008080055_29200cde68411c2.zip
-  ROM_NAME: OxygenOS10
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
