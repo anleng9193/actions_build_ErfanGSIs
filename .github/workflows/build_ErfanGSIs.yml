@@ -1,4 +1,4 @@
-name: build_ErfanGSIs
+··name: build_ErfanGSIs
 
 on:
 #  release:
@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.2.0.0/cn/20201215185816/2ce1c704/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://bigota.d.miui.com/V12.0.6.0.QJJCNXM/miui_CAS_V12.0.6.0.QJJCNXM_b2c1d22fbd_10.0.zip
+  ROM_NAME: Miui
   TZ: Asia/Shanghai
 
 jobs:
